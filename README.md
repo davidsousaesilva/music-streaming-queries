@@ -27,6 +27,6 @@ make
 
 ## Team
 
-- David Sousa Silva
+- David Sousa e Silva
 - João André Ferreira Aleixo
 - João Rafael Martins da Costa
