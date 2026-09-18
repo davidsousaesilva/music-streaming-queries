@@ -1,0 +1,19 @@
+# Compiled binaries
+programa-principal
+programa-interativo
+programa-testes
+
+# Object files
+*.o
+
+# Doxygen generated documentation
+doc/
+html/
+latex/
+
+# OS files
+.DS_Store
+
+# Editor / IDE
+.idea/
+.vscode/
